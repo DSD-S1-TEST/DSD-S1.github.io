@@ -2,7 +2,7 @@
 title: "BLE Tunnel Android version v0.0.1 has been completed"
 date: "2026-05-12"
 author: "Mofan Xu"
-summary: v0.0.1 (Android) Officially Launched"
+summary: v0.0.1 (Android) Officially Launched.
 ---
 
 # BLE Tunnel Android version v0.0.1 has been completed

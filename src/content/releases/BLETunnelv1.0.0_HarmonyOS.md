@@ -5,7 +5,7 @@ publisher: "Mofan Xu"
 summary: "A HarmonyOS 4/5 port of the async BLE tunnel, featuring multi-sensor concurrency, dual-protocol decoding, and resilient data acquisition with CSV persistence."
 ---
 
-# Release Notes — v1.0.0 (HarmonyOS)
+# Release Notes — v0.0.1 (HarmonyOS)
 
 ## Overview
 
