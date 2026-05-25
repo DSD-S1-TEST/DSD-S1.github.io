@@ -69,7 +69,7 @@ export default function ReleaseDetail() {
         </div>
       )}
 
-      <div style={{ lineHeight: '1.6' }}>
+      <div className="markdown-body" style={{ lineHeight: '1.6' }}>
         <ReactMarkdown 
           remarkPlugins={[remarkGfm]}
           components={{
