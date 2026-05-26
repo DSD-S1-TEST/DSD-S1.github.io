@@ -1,7 +1,7 @@
 ---
 title: "Requirement analysis version 0.1 (draft)"
 date: "2026-04-06"
-publisher: "Admin"
+publisher: "Derui Tang"
 summary: "Sprint 1 release of the preliminary Software Requirements Specification (SRS), detailing core use cases and the IF1 Interface Contract for the wireless motion capture system."
 ---
 # Requirement Analysis & System Specification (Sprint 1)
