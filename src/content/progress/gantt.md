@@ -15,6 +15,7 @@ gantt
     section Phase 2: Development 2
     Requirement analysis : done, task1, 2026-05-21, 2026-05-28
     Data collection : done, task2, 2026-05-22, 2026-05-25
-    Merging code : done, task3, 2026-05-23, 2026-05-28
+    Merging code : done, task3, 2026-05-23, 2026-06-09
+    Integration : done, task4, 2026-05-23, 2026-06-09
 
     
