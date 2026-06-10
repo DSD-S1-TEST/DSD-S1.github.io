@@ -3,7 +3,6 @@ title: "Progress of Integration (Continuously updating)"
 date: "2026-05-20"
 author: "Derui Tang"
 summary: Recording the progress of the whole project's integration. This news will be continuously updated as the situation may change.
-latest: true
 ---
 
 # After testing the BLE module of the S1 team, we are going to test the whole project while integrating.
